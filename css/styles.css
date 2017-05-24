@@ -2,6 +2,9 @@
   width: 250px;
   float: right;
   background-color: #c2c3c4;
+  border: 4px dotted red;
+  padding: 10px;
+  margin: 15px;
 }
 
 img {
